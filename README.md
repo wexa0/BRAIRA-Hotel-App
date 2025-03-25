@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/720f138b-a8bb-4106-9a4d-e6429ffa845a" alt="BRAIRA Hotel Logo" width="300" height="auto">
+  <img src="https://github.com/user-attachments/assets/720f138b-a8bb-4106-9a4d-e6429ffa845a" alt="BRAIRA Hotel Logo" width="500" height="auto">
 </div>
 
 ---
 
-# BRAIRA Hotel - Hotel Management System
+<h1 style="color: #4CAF50;">BRAIRA Hotel - Hotel Management System</h1>
 
 ## 📘 Overview
 **BRAIRA Hotel** is a comprehensive hotel management system that simplifies hotel operations. The system allows hotel staff and guests to manage room bookings, check availability, and manage customer profiles. This easy-to-use platform aims to enhance guest experiences and improve operational efficiency.
