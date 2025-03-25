@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/720f138b-a8bb-4106-9a4d-e6429ffa845a
-" alt="BRAIRA Hotel Logo" width="300" height="auto">
+  <img src="https://github.com/user-attachments/assets/720f138b-a8bb-4106-9a4d-e6429ffa845a" alt="BRAIRA Hotel Logo" width="300" height="auto">
 </div>
 
 ---
