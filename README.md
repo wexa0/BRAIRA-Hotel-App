@@ -14,7 +14,6 @@
 ## 🎯 Key Features:
 - **Room Booking** 🏨: Allows guests to easily book rooms through a user-friendly interface.
 - **Real-Time Room Availability** 📅: View available rooms in real-time, ensuring an efficient booking process.
-- **Customer Management** 👥: Manage guest profiles, including personal details and booking history.
 - **Booking Management** 📂: Track guest bookings, check-in/check-out details, and room assignments.
 - **Admin Dashboard** 📊: Admins can manage bookings, room availability, and customer data seamlessly.
 
@@ -41,9 +40,7 @@ The **BRAIRA Hotel** project is developed using the **Agile** methodology, ensur
 ## 🛠️ Technology Stack:
 - **Frontend**: Flutter Flow, Dart
 - **Backend**: Firebase for real-time data management
-- **Authentication**: Firebase Authentication
-- **Database**: Firebase Firestore for storing guest and booking data
-
+- 
 ---
 
 ## 🎥 Demo Video:
