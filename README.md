@@ -47,6 +47,7 @@ The **BRAIRA Hotel** project is developed using the **Agile** methodology, ensur
 ---
 
 ## 🎥 Demo Video:
+Watch the demo video on YouTube: 
 
 [![Watch the demo](https://img.youtube.com/vi/aHRbgPbfjtw/maxresdefault.jpg)](https://youtu.be/aHRbgPbfjtw)
 
